@@ -289,3 +289,57 @@
 	top: 100px;
 	left: 0px;
 }
+
+#p1 {
+	position: relative;
+	border-radius: 500px;
+	width: 500px;
+	height: 500px;
+	background: rgb(202, 255, 56);
+	margin: auto;
+	top: 110px;
+}
+
+#p2 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	margin: auto;
+	top: 100px;
+	left: -100px;
+}
+
+#p3 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	margin: auto;
+	top: 0px;
+	left: 100px;
+}
+
+#p4 {
+	position: relative;
+	border-radius: 80px;
+	width: 80px;
+	height: 80px;
+	background-color: white;
+	margin: auto;
+	top: 30px;
+}
+
+#p5 {
+	position: absolute;
+  	width: 90px;
+	height: 90px;
+	left: 50%;
+	top: 300px; 
+	transform: translateX(-50%);
+	border-radius: 50%;
+	border: 14px solid transparent;  
+	border-bottom-color: white;
+}  
