@@ -390,3 +390,30 @@
 	border: 1px solid green;
 	transform: translateY(4500px);
 }
+
+#f1 {
+	position: relative;
+	width: 500px;
+	height: 300px;
+	border: 1px solid green;
+	margin: auto;
+	top: 1400px;
+}
+
+#f2 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
+	margin: auto;
+	left: -50px;
+}
+
+#f3 {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border: 1px solid red;
+	margin: auto;
+	right: -50px;
+}
