@@ -3,6 +3,8 @@
 	width: 50px;
 	height: 50px;
 	border: 1px solid red;
+	top: 0px;
+	left: 0px;
 }
 #elem2 {
 	position: absolute;
@@ -81,6 +83,7 @@
 	height: 50px;
 	background: red;
 }
+
 #e2 {
 	position: absolute;
 	top: 480px;
@@ -89,6 +92,7 @@
 	height: 50px;
 	background: blue;
 }
+
 #e3 {
 	position: absolute;
 	top: 510px;
@@ -96,4 +100,53 @@
 	width: 50px;
 	height: 50px;
 	background: green;
+}
+
+#r1 {
+	width: 100px;
+	height: 100px;
+	margin-top: 600px;
+	margin-bottom:20px;
+	background: red;
+}
+
+#r2 {
+	width: 100px;
+	height: 100px;
+	margin-bottom:20px;
+	background: blue;
+}
+
+#r3 {
+	width: 100px;
+	height: 100px;
+	margin-bottom:30px;
+	background: green;
+}
+
+#t1 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+#t2 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background: blue;
+	margin-left: 50px;
+	top: -40px;
+
+}
+
+#t3 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background: green;
+	margin-left: 100px;
+	top: -80px;
+	margin-bottom:-70px;
 }
