@@ -417,3 +417,30 @@
 	margin: auto;
 	right: -50px;
 }
+
+ #g1 {
+    position: absolute;
+    top: 5600px;
+    left: 500px; 
+    width: 30px; 
+	height: 30px;
+    border: 1px solid red;
+}
+
+#g2 {
+    position: absolute;
+    top: 5600px;
+    right: 500px; 
+    width: 30px; 
+    height: 30px;
+    border: 1px solid red;
+}
+
+#g3 {
+	margin: 0 auto;
+    width: 300px;
+    text-align: justify;
+    font: 16px Arial;
+	margin-top: 1450px;
+	border: 1px solid green;
+}
