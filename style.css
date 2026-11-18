@@ -237,3 +237,55 @@
 	margin: auto;
 	border: 1px solid black;
 }
+
+#o1 {
+	position: relative;
+	border-radius: 500px;
+	width: 500px;
+	height: 500px;
+	background: rgb(103, 255, 103);
+	margin: auto;
+	top: 100px;
+}
+
+#o2 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	margin: auto;
+	top: 100px;
+	left: -100px;
+}
+
+#o3 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	margin: auto;
+	top: 0px;
+	left: 100px;
+}
+
+#o4 {
+	position: relative;
+	width: 70px;
+	height: 70px;
+	background-color: white;
+	margin: auto;
+	top: 40px;
+	left: 0px;
+}
+
+#o5 {
+	position: relative;
+	width: 200px;
+	height: 10px;
+	background-color: white;
+	margin: auto;
+	top: 100px;
+	left: 0px;
+}
