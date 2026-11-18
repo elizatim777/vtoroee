@@ -168,3 +168,31 @@
 	top: 100px;
 	left: -100px;
 }
+
+#u1 {
+	position: relative;
+	width: 700px;
+	height: 500px;
+	background: rgb(144, 255, 190);
+	margin: auto;
+	top: 20px;
+}
+
+#u2 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(255, 255, 255);
+	top: 50px;
+	left: 50px;
+}
+
+#u3 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(255, 255, 255);
+	top: 250px;
+	left: 550px;
+}
+
