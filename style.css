@@ -444,3 +444,28 @@
 	margin-top: 1450px;
 	border: 1px solid green;
 }
+
+#h1 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100px;
+	background-color: darkkhaki;
+}
+
+p {
+	text-align: center;
+	font-weight: bold;
+	font-size:x-large;
+	color: white;
+}
+
+#h2 {
+	margin: auto;
+    width: 300px;
+    text-align: justify;
+    font: 16px Arial;
+	margin-top: 50px;
+	border: 1px solid green;
+}
