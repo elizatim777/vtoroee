@@ -196,3 +196,44 @@
 	left: 550px;
 }
 
+#i1 {
+	position: relative;
+	width: 160px;
+	height: 400px;
+	border: 1px solid black;
+	margin: auto;
+	top: 50px;
+}
+
+#i2 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background: red;
+	margin: auto;
+	top: 30px;
+	margin-bottom: 50px;
+	border: 1px solid black;
+}
+
+#i3 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	margin: auto;
+	margin-bottom: 20px;
+	border: 1px solid black;
+}
+
+#i4 {
+	position: relative;
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	background: green;
+	margin: auto;
+	border: 1px solid black;
+}
