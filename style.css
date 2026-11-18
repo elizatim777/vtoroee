@@ -469,3 +469,23 @@ p {
 	margin-top: 50px;
 	border: 1px solid green;
 }
+
+#j1 {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	margin-top: 6500px;
+	width: 100px;
+	height: 100px;
+	background: #ff8888;
+}
+
+#j2 {
+	position: absolute;
+	top: 60px;
+	left: 60px;
+	margin-top: 6530px;
+	width: 100px;
+	height: 100px;
+	background: #7e89eb;
+}
